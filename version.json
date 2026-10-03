@@ -1,10 +1,10 @@
 {
-  "version": "0.6.9",
-  "released": "2026-09-15",
-  "zip": "tinghuitai-desktop-v0.6.9.zip",
-  "notes": "分享与归档、内嵌记忆、精简本场菜单；修复记忆归属、上下文更新与更新失败恢复",
+  "version": "0.8.0",
+  "released": "2026-10-03",
+  "zip": "tinghuitai-desktop-v0.8.0.zip",
+  "notes": "从开会到推进工作，在同一处继续。MyAgent 随时可用，独立任务并行；过时事项自动退到后台，重要承诺仍保留。",
   "min_macos": 13,
   "stable_zip": "tinghuitai-desktop.zip",
-  "sha256": "38a7a4ab77d9e753bf392ff32686d572d8b595146878779a410a445d243557f7",
-  "size": 472412
+  "sha256": "22bb47e2b63ea2e4770172f24158116b0621a5127618a367f50c93d3aed6c297",
+  "size": 1681863
 }
